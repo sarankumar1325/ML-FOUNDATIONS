@@ -1,0 +1,5 @@
+{"timestamp": "2025-05-19 18:28:14.730071", "input": {"sepal_length": 5.4, "sepal_width": 3.4, "petal_length": 4.7, "petal_width": 1.4}, "prediction": "versicolor", "probabilities": [0.03, 0.91, 0.06]}
+{"timestamp": "2025-05-19 18:28:29.599517", "input": {"sepal_length": 4.2, "sepal_width": 2.2, "petal_length": 1.5, "petal_width": 0.4}, "prediction": "setosa", "probabilities": [0.99, 0.01, 0.0]}
+{"timestamp": "2025-05-19 18:28:39.314214", "input": {"sepal_length": 7.7, "sepal_width": 4.3, "petal_length": 6.4, "petal_width": 2.3}, "prediction": "virginica", "probabilities": [0.0, 0.0, 1.0]}
+{"timestamp": "2025-05-19 18:28:52.135104", "input": {"sepal_length": 7.7, "sepal_width": 2.5, "petal_length": 6.4, "petal_width": 0.4}, "prediction": "virginica", "probabilities": [0.42, 0.13, 0.45]}
+{"timestamp": "2025-05-19 18:29:16.516589", "input": {"sepal_length": 5.4, "sepal_width": 2.1, "petal_length": 4.7, "petal_width": 2.3}, "prediction": "virginica", "probabilities": [0.01, 0.35, 0.64]}

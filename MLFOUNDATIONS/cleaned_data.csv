@@ -1,0 +1,9 @@
+Name,Age,Gender,Score,City,Result
+Alice,25.0,Female,85.0,NY,Pass
+Bob,30.0,Male,90.0,LA,Pass
+Charlie,29.857142857142858,Male,78.0,NY,Fail
+David,35.0,Male,88.0,SF,Pass
+Eve,28.0,Female,85.0,LA,Pass
+Frank,40.0,Male,95.0,SF,Pass
+Grace,22.0,Female,80.0,NY,Pass
+Heidi,29.0,Female,70.0,LA,Fail
