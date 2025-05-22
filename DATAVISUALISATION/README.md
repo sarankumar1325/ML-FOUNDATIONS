@@ -1,5 +1,11 @@
 # Data Visualization Learning & Live Dashboard Project
 
+![Image](https://github.com/user-attachments/assets/b7245bce-a7fe-4403-bd9e-cef46a2c1b4a)
+
+![Image](https://github.com/user-attachments/assets/7e74aa22-410c-45df-91d1-b56026e90cf0)
+
+![Image](https://github.com/user-attachments/assets/3d7452c7-dd3d-41e2-adcc-0a40b96201a5)
+
 This project is designed to help you learn and practice data visualization in Python using Matplotlib, Seaborn, and Plotly, and to build a live dashboard for real-time stock data visualization.
 
 ## Contents
@@ -34,11 +40,4 @@ This project is designed to help you learn and practice data visualization in Py
 - Error handling for missing data or dependencies.
 - Refresh button for live updates.
 
-## Learning Goals
-- Understand the basics of Matplotlib and Seaborn for static data visualization.
-- Learn about different plot types and their best use cases.
-- Build and deploy a live, interactive dashboard for real-world data.
 
----
-
-Feel free to extend the dashboard or notebooks with your own datasets and visualizations!
