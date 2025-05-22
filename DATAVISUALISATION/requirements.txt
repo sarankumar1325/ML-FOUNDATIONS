@@ -1,0 +1,7 @@
+# Requirements for Data Visualization Learning and Dashboard
+matplotlib
+seaborn
+pandas
+streamlit
+requests
+yfinance
